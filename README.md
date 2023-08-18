@@ -17,7 +17,11 @@ Clone this repository and inside repository run Python file run.py. If you inten
 
    
 ## GUI: 
-![Graphical user interface](gui_screen.png)
+<div style="display: flex; align-items: center;">
+  <img src="gui_screen.png" alt="Image" width="200" height="300" style="margin-right:10px;">
+  Your text goes here. You can add any text you want to appear next to the image.
+</div>
 
-sdgfadsfgsadg
+
+
 
