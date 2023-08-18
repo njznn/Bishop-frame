@@ -1,0 +1,7 @@
+/home/ziga/Desktop/FMF_delo/bishoplib/build/CMakeFiles/bishoplib.dir
+/home/ziga/Desktop/FMF_delo/bishoplib/build/CMakeFiles/edit_cache.dir
+/home/ziga/Desktop/FMF_delo/bishoplib/build/CMakeFiles/rebuild_cache.dir
+/home/ziga/Desktop/FMF_delo/bishoplib/build/CMakeFiles/list_install_components.dir
+/home/ziga/Desktop/FMF_delo/bishoplib/build/CMakeFiles/install.dir
+/home/ziga/Desktop/FMF_delo/bishoplib/build/CMakeFiles/install/local.dir
+/home/ziga/Desktop/FMF_delo/bishoplib/build/CMakeFiles/install/strip.dir
