@@ -20,7 +20,7 @@ Clone this repository and inside repository run Python file run.py. If you inten
 <div style="margin-top: 10px;">
   <p style="margin-top: 10px;"> There are two ways to insert a curve coordinates, one is trough a .txt file, which requires certain format provided on the window. Second one is by constructing parametric curve. Because a Bishop frame is unique only to the "director" (vector perpendicular to the tangent vector) at first point, it is necessary to insert vector, which is not parallel to tangent vector (random vector) and with cross product we get first director. All  the base vectors are unit size, but they can be rescaled with pointers T,d1,d2. It is also possible to set the number of base triads. To download curve points and all local base triads insert file name.Regardless of number of local bases shown in plot, the same number of local bases as number of points will be in downloaded file. Format of downloaded data is given in file. </p>
 </div>
-<div style="display: flex; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
   <div style="margin-right: 10px;">
     <img src="gui_screen.png" alt="Image" width="300" height="600" style="margin-right:10px;">
   </div>
