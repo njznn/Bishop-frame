@@ -10,10 +10,10 @@ Everything can be written in Python, due to the low computational complexity, bu
 
 ## How to run?
 Clone this repository and inside repository run Python file run.py. If you intend to change C++ code, than you need to build from source (you need Cmake or some other compiler which produces .so (shared file)). With terminal navigate inside repository and run
--sudo rm -r build
--mkdir build
--cmake ..
--cmake --build .
+* sudo rm -r build
+* mkdir build
+* cmake ..
+* cmake --build .
    
 
 
